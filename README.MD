@@ -19,7 +19,7 @@ Este app e para salvar logins e senhas, teve como objetivo colocar os conhecimen
 ## Executar aplicação
 ```bash
 # Clone este repositório
-$ git clone 
+$ git clone https://github.com/steephanie/passmanager
 
 # Entre na pasta do projeto.
 $ cd PassManager
